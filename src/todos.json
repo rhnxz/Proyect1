@@ -1,0 +1,22 @@
+{
+    "todos": [
+        {
+            "title": "Tarea 1",
+            "responsibe": "Mark",
+            "description": "clase 1",
+            "priority": "Low"
+        },
+        {
+            "title": "Tarea 2",
+            "responsibe": "Glass",
+            "description": "clase 2",
+            "priority": "Medium"
+        },
+        {
+            "title": "Tarea 3",
+            "responsibe": "Jose",
+            "description": "clase 3",
+            "priority": "Hig"
+        }
+    ]
+}
